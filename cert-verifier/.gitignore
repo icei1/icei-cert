@@ -1,0 +1,16 @@
+conf.ini
+.DS_Store
+*.pyc
+venv*/
+.idea/*
+
+.cache/
+.coverage
+.eggs/
+.tox/
+.pytest_cache/
+*build/
+
+*.egg-info*
+
+dist/*
